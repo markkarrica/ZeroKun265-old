@@ -12,7 +12,7 @@ tags:
 - Platforms: **Windows**
 - Authors: **ZeroKun265(Me)**
 - Genres: **Platformer**
-- "The Making" Page: **[Click here!](/games-developement/Sun-Core-Making)**
+- "The Making" Page: **[[/games-developement/Sun-Core-Making | Click here]]**
 
 # Sun Core
 Your friend has been kidnapped by monsters and brought to the core of the sun: 
