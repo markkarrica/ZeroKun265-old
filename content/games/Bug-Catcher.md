@@ -2,9 +2,10 @@
 title: Bug Catcher by ZeroKun265!
 date: "2022-08-20"
 tags:
--  games
--  Zeno Jam 5
--  Godot
+- Games
+- Zeno Jam 5
+- Godot
+- Game Jam
 ---
 
 ### Basic Info:

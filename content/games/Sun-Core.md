@@ -2,9 +2,10 @@
 title: Sun Core by ZeroKun265!
 date: "2022-08-20"
 tags:
--  games
--  Ludum Dare 48
--  Python
+- Games
+- Ludum Dare
+- Python
+- Game Jam
 ---
 
 ### Basic Info:
