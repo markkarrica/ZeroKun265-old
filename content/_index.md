@@ -1,26 +1,54 @@
 ---
-title: 🪴 Quartz 3.2
+title: About ZeroKun265
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Hi, I'm ZeroKun265, or ZeroKun.
 
-1. Extremely fast natural-language [[notes/search|search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+I am a 17yo Developer and I mostly do what I feel like, I also want to become a content creator and basically whatever else comes to my mind.
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+Down here you'll find a bunch of links and a list of things I know of or that I feel are important to mention
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+Projects:
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+- CopperRings (https://github.com/ZeroKun265/CopperRings)
+        A Minecraft Mod made with Fabric that adds wearable rings that give status effects to the game
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+- Bug Catcher (https://zerokun265.itch.io/bugcatcher)
+        A point and click game where you need to catch bugs that are attracted to the light .
+        The game was made in less than a day for the ZenoJam 5.
+- Sun-Core (https://zerokun265.itch.io/Sun-Core)
+        A platformer rage game made using the python pygame library.
+        The game was made in 72 Hours for the LD48 competition.
+- GodotNewsBot (http://t.me/NewsGodotBot)
+        A Telegram bot that allows you to get news articles from the Godot website, made with Python and Pyrogram
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
+
+Technologies:
+
+- Python (http://www.python.org/) -- not really anything in particular, just good knowledge of the language and comfort using it.
+
+- Tiny Knowledge of Linux systems(mostly Arch Based systems) (but the ability to google stuff is there!)
+
+- Knowledge of Game Developement concepts
+
+- Godot (http://www.godotengine.org/) game engine used for games and UIs
+
+- Pyrogram (https://docs.pyrogram.org/) Telegram MTProto API Framework for Python
+
+
+Socials/Links:
+
+- Itch page (http://zerokun265.itch.io/)
+
+- GitHub (https://github.com/ZeroKun265)
+
+- Discord Handle: ZeroKun265#9299
+
+- Instagram Handle: zerodev265
+
+If you ever want to collaborate with me on some Game developement project or really any project, I'm in.  
+You can contact me at zerokunbusiness@gmail.com  
+  
+### My Github stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeroKun265)](https://github.com/anuraghazra/github-readme-stats)
