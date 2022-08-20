@@ -1,6 +1,6 @@
 ---
 title: Bug Catcher by ZeroKun265!
-date: "2022-08-21"
+date: "2022-08-20"
 tags:
 -  games
 -  Zeno Jam 5
