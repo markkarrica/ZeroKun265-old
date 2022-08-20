@@ -1,5 +1,6 @@
 ---
 title: About ZeroKun265
+enableToc: false
 ---
 
 Hi, I'm ZeroKun265, or ZeroKun.
