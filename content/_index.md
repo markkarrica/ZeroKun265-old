@@ -12,7 +12,6 @@ Projects:
 
 - CopperRings (https://github.com/ZeroKun265/CopperRings)
         A Minecraft Mod made with Fabric that adds wearable rings that give status effects to the game
-
 - Bug Catcher (https://zerokun265.itch.io/bugcatcher)
         A point and click game where you need to catch bugs that are attracted to the light .
         The game was made in less than a day for the ZenoJam 5.
