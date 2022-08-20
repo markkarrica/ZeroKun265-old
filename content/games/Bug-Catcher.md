@@ -13,7 +13,7 @@ tags:
 - Platforms: **HTML5**
 - Authors: **ZeroKun265(Me)**
 - Genres: **Point and Click**
-- "The Making" Page: **[Click here!]()**
+- "The Making" Page: **[Click Here!](games-developement/Bug-Catcher-Making.md)**
 
 # Bug Catcher
 A 2d Point and click game made in a day for the ZenoJam 5(May 2022) 
