@@ -4,9 +4,10 @@ tags:
 - Games Developement
 - Game Jam
 - Ludum Dare
+- Python
 ---
 **⏲ ReadTime: 4-5 minutes** 
-## The Making of [Sun Core](games/Sun-Core.md)
+# The Making of [Sun Core](games/Sun-Core.md)
 It was summer and i had nothing to do but code, you might think it's cool, what project did you build? You had an entire summer!
 Yeah.. i was lazy and costrained myself to a 72 hour game jam, not the smartest of ideas, i know.
 

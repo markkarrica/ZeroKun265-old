@@ -51,4 +51,4 @@ Licensed under Creative Commons: By Attribution 3.0 License http://creativecommo
 ![[https://img.itch.zone/aW1nLzU3ODcwMTMucG5n/original/iYo%2FO7.png | 350]]
 ![[https://img.itch.zone/aW1nLzU3ODcwMTYucG5n/original/w05xpJ.png | 350]]
 
-## Download link and more information available on [The Itch Page](https://zerokun265.itch.io/sun-core)
+<iframe height="167" frameborder="0" src="https://itch.io/embed/1015926" width="552"><a href="https://zerokun265.itch.io/sun-core">Sun Core by ZeroKun265</a></iframe>
