@@ -1,5 +1,6 @@
 ---
 title: "//Developement: Sun Core"
+date: "2022-08-20"
 tags:
 - Games Developement
 - Game Jam

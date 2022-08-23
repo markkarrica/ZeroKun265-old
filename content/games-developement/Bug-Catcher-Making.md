@@ -1,5 +1,6 @@
 ---
 title: "//Developement: Bug Catcher"
+date: "2022-08-23"
 tags:
 - Games Developement
 - Game Jam
