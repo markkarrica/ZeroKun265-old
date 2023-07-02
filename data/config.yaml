@@ -1,4 +1,4 @@
-name: ZeroKun265
+name: Jacky Zhao
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -10,22 +10,20 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: false
-GitHubLink: https://github.com/ZeroKun265/ZeroKun265/tree/hugo/content
-enableSemanticSearch: false
-operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+enableGitHubEdit: true
+enableMermaid: true
+GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+search:
+  enableSemanticSearch: false
+  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Hi I'm ZeroKun265 and i'm a 17yo developer. Learn more!
+  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
+  Wikilink support, backlinks, local graph, tags, and link previews.
 page_title:
-  ZeroKun265
+  "🪴 Quartz 3.3"
 links:
   - link_name: Twitter
-    link: https://twitter.com/ZeroKun265
-  - link_name: Instagram
-    link: https://instagram.com/zerodev265
-  - link_name: Github
-    link: https://github.com/ZeroKun265
-  - link_name: Itch.io
-    link: http://zerokun265.itch.io/
-  - link_name: Discord
-    link: https://discordapp.com/users/1010617549001605262
+    link: https://twitter.com/_jzhao
+  - link_name: GitHub
+    link: https://github.com/jackyzha0
