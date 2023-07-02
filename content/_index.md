@@ -5,7 +5,7 @@ enableToc: false
 # Welcome 👋
 Hi, I'm ZeroKun265, or ZeroKun.
 
-I am a 18yo developer and I mostly do what I feel like, I also want to become a content creator and basically whatever else comes to my mind.
+I am a 17yo developer and I mostly do what I feel like, I also want to become a content creator and basically whatever else comes to my mind.
 
 ## What to See
 
